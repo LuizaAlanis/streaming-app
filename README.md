@@ -1,8 +1,6 @@
 <h1> :clapper: Filmassos :clapper: </h1>
 <h3> Aplicativo de filmes<h3> <br>
-<img src="https://github.com/LuizaAlanis/RecyclerView-e-CardView/blob/master/Capa.png"> 
-  <i> Splash, Tela principal </i>
-  <br>
+<img src="https://github.com/LuizaAlanis/RecyclerView-e-CardView/blob/master/Capa.png"> <br>
 
   <h3>:thumbsup: Aprendi sobre </h3>
   <p>:heavy_check_mark: RecyclerView </p>
